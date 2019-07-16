@@ -1,0 +1,12 @@
+Check if all checking placec is correct:
+
+up and down - yes
+left to right - yes
+
+diagonal top left to below right - yes
+diagonal below left to top right - yes
+
+-----------------------------------------
+
+Known bugs:
+- When cheking variable outside of the board it wil count it as a win
